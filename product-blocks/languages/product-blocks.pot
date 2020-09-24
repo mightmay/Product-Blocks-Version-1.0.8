@@ -1,0 +1,326 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Product Blocks\n"
+"POT-Creation-Date: 2020-04-23 08:17+0600\n"
+"PO-Revision-Date: 2020-04-23 08:17+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: product-blocks.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: blocks/Product_Category_1.php:1575
+msgid "products"
+msgstr ""
+
+#: blocks/Product_Grid_1.php:2523 blocks/Product_Grid_2.php:2551
+#: blocks/Product_Grid_3.php:2517 classes/Blocks.php:179
+msgid "Sale!"
+msgstr ""
+
+#: blocks/Product_Grid_1.php:2524 blocks/Product_Grid_2.php:2552
+#: blocks/Product_Grid_3.php:2518
+msgid " Off"
+msgstr ""
+
+#: blocks/Product_Grid_1.php:2535 blocks/Product_Grid_2.php:2563
+#: blocks/Product_Grid_3.php:2529
+msgid "Out of stock"
+msgstr ""
+
+#: blocks/Product_Grid_1.php:2539 blocks/Product_Grid_2.php:2600
+#: blocks/Product_Grid_3.php:2536
+msgid "Quick View"
+msgstr ""
+
+#: blocks/template/review.php:7 classes/Blocks.php:189
+msgid "out of 5"
+msgstr ""
+
+#: classes/Blocks.php:192
+msgid " customer review"
+msgstr ""
+
+#: classes/Blocks.php:206 classes/Blocks.php:209
+msgid "AVAILABILITY:"
+msgstr ""
+
+#: classes/Blocks.php:206
+msgid "Out of Stock"
+msgstr ""
+
+#: classes/Blocks.php:209
+msgid "In Stock"
+msgstr ""
+
+#: classes/Blocks.php:213
+msgid "SKU:"
+msgstr ""
+
+#: classes/Blocks.php:231
+msgid "Category:"
+msgstr ""
+
+#: classes/Blocks.php:242
+msgid "Tags:"
+msgstr ""
+
+#: classes/Functions.php:241
+msgid "Previous"
+msgstr ""
+
+#: classes/Functions.php:261
+msgid "Next"
+msgstr ""
+
+#: classes/Initialization.php:138
+msgid "WooCommerce Blocks"
+msgstr ""
+
+#: classes/Notice.php:29 classes/Notice.php:45
+msgid "Welcome to Product Blocks."
+msgstr ""
+
+#: classes/Notice.php:30 classes/Notice.php:46
+msgid ""
+"WooCommerce Product Blocks is a WooCommerce plugin. To use this plugins you "
+"have to install and activate WooCommerce."
+msgstr ""
+
+#: classes/Notice.php:31
+msgid "Install WooCommerce"
+msgstr ""
+
+#: classes/Notice.php:47
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: classes/Notice.php:176
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classes/Options.php:14 classes/Options.php:15
+msgid "Woo Blocks"
+msgstr ""
+
+#: classes/Options.php:49
+msgid "CSS Save Method"
+msgstr ""
+
+#: classes/Options.php:51
+msgid "Header"
+msgstr ""
+
+#: classes/Options.php:52
+msgid "File System"
+msgstr ""
+
+#: classes/Options.php:55
+msgid "Select where you want to save CSS."
+msgstr ""
+
+#: classes/Options.php:59
+msgid "Container Width"
+msgstr ""
+
+#: classes/Options.php:61
+msgid "Change Container Width."
+msgstr ""
+
+#: classes/Options.php:84
+msgid "Download Now"
+msgstr ""
+
+#: classes/Options.php:132
+msgid "Released on "
+msgstr ""
+
+#: classes/Options.php:134
+msgid "Version"
+msgstr ""
+
+#: classes/Options.php:216
+msgid "Storefront"
+msgstr ""
+
+#: classes/Options.php:217
+msgid ""
+"Responsive WordPress Theme store theme built for shop and product showcase"
+msgstr ""
+
+#: classes/Options.php:218 classes/Options.php:700
+msgid "Core Features"
+msgstr ""
+
+#: classes/Options.php:220
+msgid "Based On WooCommerce"
+msgstr ""
+
+#: classes/Options.php:221
+msgid "Responsive Ready"
+msgstr ""
+
+#: classes/Options.php:222
+msgid "Beautifully Crafted "
+msgstr ""
+
+#: classes/Options.php:223
+msgid "Advanced Option Panel"
+msgstr ""
+
+#: classes/Options.php:224
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: classes/Options.php:226
+msgid "Free Download"
+msgstr ""
+
+#: classes/Options.php:675
+msgid "Welcome to <strong>Product Blocks</strong> - Version"
+msgstr ""
+
+#: classes/Options.php:677
+msgid "Most Powerful & Advanced Gutenberg Product Blocks for WooCommerce"
+msgstr ""
+
+#: classes/Options.php:677
+msgid "Rate the plugin"
+msgstr ""
+
+#: classes/Options.php:679
+msgid "WooCommerce Product Blocks"
+msgstr ""
+
+#: classes/Options.php:683
+msgid "Getting Started"
+msgstr ""
+
+#: classes/Options.php:684
+msgid "General Settings"
+msgstr ""
+
+#: classes/Options.php:685
+msgid "Recommended Theme"
+msgstr ""
+
+#: classes/Options.php:686
+msgid "Changelog"
+msgstr ""
+
+#: classes/Options.php:694
+msgid "Quick Overview"
+msgstr ""
+
+#: classes/Options.php:695
+msgid ""
+"Gutenberg WooCommerce Product Blocks is a Gutenberg Product Blocks plugins "
+"for WooCommerce to creating beautiful WooCommerce grid blocks, post listing "
+"blocks, post slider blocks and post carousel blocks within a few seconds."
+msgstr ""
+
+#: classes/Options.php:702
+msgid "WooCommerce Category Filter"
+msgstr ""
+
+#: classes/Options.php:703
+msgid "8 Beautifully Crafted Gutenberg Blocks"
+msgstr ""
+
+#: classes/Options.php:704
+msgid "WooCommerce Product Listing"
+msgstr ""
+
+#: classes/Options.php:705
+msgid "WooCommerce Product Grid"
+msgstr ""
+
+#: classes/Options.php:706
+msgid "Google Font Support"
+msgstr ""
+
+#: classes/Options.php:707
+msgid "Advanced Post Query Builder"
+msgstr ""
+
+#: classes/Options.php:708
+msgid "SVG Custom Icon"
+msgstr ""
+
+#: classes/Options.php:709
+msgid "Load More with AJAX Powered"
+msgstr ""
+
+#: classes/Options.php:710
+msgid "Navigation with AJAX Powered"
+msgstr ""
+
+#: classes/Options.php:711
+msgid "Responsive Settings"
+msgstr ""
+
+#: classes/Options.php:712
+msgid "Advanced Typography Control"
+msgstr ""
+
+#: classes/Options.php:713
+msgid "Animation Support"
+msgstr ""
+
+#: classes/Options.php:714
+msgid "Custom CSS Option"
+msgstr ""
+
+#: classes/Options.php:715
+msgid "Section Title Control"
+msgstr ""
+
+#: classes/Styles.php:76 classes/Styles.php:85
+msgid "Data retrive done"
+msgstr ""
+
+#: classes/Styles.php:78 classes/Styles.php:87
+msgid "Data not found!!"
+msgstr ""
+
+#: classes/Styles.php:113
+msgid "CSS can not be saved due to permission!!!"
+msgstr ""
+
+#: classes/Styles.php:116
+msgid "Product Blocks css file has been updated."
+msgstr ""
+
+#: classes/Templates.php:27
+msgid "WooCommerce Template"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Product Blocks"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Product blocks is a Gutenberg product blocks for WooCommerce, very useful "
+"for product listing, product grid and product slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpxpo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpxpo.com/"
+msgstr ""
